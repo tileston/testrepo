@@ -1,0 +1,5 @@
+---
+default_its: github
+open onto: master
+project_name: testrepo
+gitc_comment: 1
