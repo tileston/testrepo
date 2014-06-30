@@ -1,5 +1,5 @@
 ---
 default_its: github
-'open onto': master
+open onto: test
 project_name: testrepo
 gitc_comment: 1
