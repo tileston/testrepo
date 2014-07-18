@@ -9,7 +9,7 @@ github_statuses:
     to: 'in progress'
     block: ['closed', 'completed', 'in production']
   edit:
-    from: '.*'
+    from: 'failed|pending review'
     to: 'in progress'
   submit: 
     from: 'in progress|failed'
